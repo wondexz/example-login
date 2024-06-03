@@ -1,0 +1,34 @@
+{
+  "name": "exaple-login",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "cls & node app.js",
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wondexz/example-login.git"
+  },
+  "keywords": [
+    "express",
+    "expressjs",
+    "expresslogin",
+    "login",
+    "examplelogin",
+    "login"
+  ],
+  "author": "wondexz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wondexz/example-login/issues"
+  },
+  "homepage": "https://github.com/wondexz/example-login#readme",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "express-session": "^1.18.0",
+    "path": "^0.12.7"
+  }
+}
